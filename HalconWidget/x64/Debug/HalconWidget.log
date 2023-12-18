@@ -1,0 +1,22 @@
+﻿生成启动时间为 2023/11/3 23:02:46。
+     1>项目“E:\4_MyLeaenQt\9_Halcon显示窗口\HalconWidget\HalconWidget\HalconWidget.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>项目“E:\4_MyLeaenQt\9_Halcon显示窗口\HalconWidget\HalconWidget\HalconWidget.vcxproj”(1)正在节点 2 上生成“E:\4_MyLeaenQt\9_Halcon显示窗口\HalconWidget\HalconWidget\HalconWidget.vcxproj”(1:2) (Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Ix64\Debug\uic /Ix64\Debug\moc /I.\include /I"C:\Program Files (x86)\Visual Leak Detector\include" /I"E:\4_MyLeaenQt\9_Halcon????\HalconWidget\HalconWidget\x64\Debug\qmake\temp" /IC:\Qt\Qt5.9.6\5.9.6\msvc2015_64\include /IC:\Qt\Qt5.9.6\5.9.6\msvc2015_64\include\QtWidgets /IC:\Qt\Qt5.9.6\5.9.6\msvc2015_64\include\QtGui /IC:\Qt\Qt5.9.6\5.9.6\msvc2015_64\include\QtANGLE /IC:\Qt\Qt5.9.6\5.9.6\msvc2015_64\include\QtCore /I"C:\Qt\Qt5.9.6\5.9.6\msvc2015_64\mkspecs\win32-msvc" /Ix64\Debug\moc /Ix64\Debug\uic /Zi /nologo /W1 /WX- /MP /Od /D UNICODE /D _UNICODE /D WIN32 /D WIN64 /D QT_WIDGETS_LIB /D QT_GUI_LIB /D QT_CORE_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt CHalconLabel.cpp
+         CHalconLabel.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"bin\HalconWidget.exe" /NOLOGO /LIBPATH:.\lib /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win64" /LIBPATH:C:\Qt\Qt5.9.6\5.9.6\msvc2015_64\lib /LIBPATH:C:\openssl\lib /LIBPATH:C:\Utils\my_sql\my_sql\lib /LIBPATH:C:\Utils\postgresql\pgsql\lib halcon.lib halconc.lib halconcpp.lib halconcpp10.lib halconcpp10xl.lib halconcppxl.lib halconcxl.lib halconx.lib halconxl.lib halconxxl.lib hdevenginecpp.lib hdevenginecpp10.lib hdevenginecpp10xl.lib hdevenginecppxl.lib hdevenginex.lib hdevenginexxl.lib C:\Qt\Qt5.9.6\5.9.6\msvc2015_64\lib\qtmaind.lib shell32.lib C:\Qt\Qt5.9.6\5.9.6\msvc2015_64\lib\Qt5Widgetsd.lib C:\Qt\Qt5.9.6\5.9.6\msvc2015_64\lib\Qt5Guid.lib C:\Qt\Qt5.9.6\5.9.6\msvc2015_64\lib\Qt5Cored.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"bin\HalconWidget.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"bin\HalconWidget.lib" /MACHINE:X64 x64\Debug\CHalconLabel.obj
+         x64\Debug\HalconWidget.obj
+         x64\Debug\main.obj
+         x64\Debug\qrc_HalconWidget.obj
+         x64\Debug\moc_HalconWidget.obj
+         x64\Debug\moc_CHalconLabel.obj
+         HalconWidget.vcxproj -> E:\4_MyLeaenQt\9_Halcon显示窗口\HalconWidget\HalconWidget\bin\HalconWidget.exe
+     1>已完成生成项目“E:\4_MyLeaenQt\9_Halcon显示窗口\HalconWidget\HalconWidget\HalconWidget.vcxproj”(Build 个目标)的操作。
+     1>已完成生成项目“E:\4_MyLeaenQt\9_Halcon显示窗口\HalconWidget\HalconWidget\HalconWidget.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.59
